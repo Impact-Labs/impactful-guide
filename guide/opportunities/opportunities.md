@@ -1,3 +1,7 @@
+---
+description: '`Description of Internships`'
+---
+
 # Internships
 
 ## [Center for Robust Decision-making in Climate and Energy Policy \(RDCEP\) ****](http://www.rdcep.org/)⭐ 💰

@@ -1,3 +1,7 @@
+---
+description: '`Description of Fellowships`'
+---
+
 # Fellowships
 
 ## [Civic Digital Fellowship](https://www.codingitforward.com/fellowship) 💰

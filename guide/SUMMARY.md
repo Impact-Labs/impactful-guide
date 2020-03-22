@@ -1,6 +1,6 @@
 # Table of contents
 
-* [The Impactful Tech Guide](README.md)
+* [About](README.md)
 
 ## Work Opportunities <a id="opportunities"></a>
 
@@ -13,8 +13,8 @@
 * [Conferences](events/conferences.md)
 * [Hackathons](events/hackathons.md)
 
-## Our Reccomendations
+## Our Recommendations
 
-* [Organizations](our-reccomendations/organizations.md)
-* [Newsletters and Blogs](our-reccomendations/newsletters-and-blogs.md)
+* [Organizations](our-recommendations/organizations.md)
+* [Newsletters, Blogs, and Articles](our-recommendations/newsletters-and-blogs.md)
 

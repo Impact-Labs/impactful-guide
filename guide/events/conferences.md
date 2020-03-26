@@ -1,7 +1,3 @@
----
-description: '`Description of Conferences`'
----
-
 # Conferences
 
 ## [The Nonprofit Technology Conference \(NTC\)](https://www.nten.org/ntc/)

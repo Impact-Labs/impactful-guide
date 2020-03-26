@@ -1,7 +1,3 @@
----
-description: '`Description of Internships`'
----
-
 # Internships
 
 ## [Center for Robust Decision-making in Climate and Energy Policy \(RDCEP\) ****](http://www.rdcep.org/)⭐ 💰
@@ -13,6 +9,8 @@ The Data Science for Public Good \(DSPG\) program is a summer immersive program 
 {% endhint %}
 
 The Center for Robust Decision-making on Climate and Energy Policy \(RDCEP\) brings together experts in climate science, statistics, computer science, economics, energy, public policy, and law to undertake a series of research programs aimed at improving the computational models needed to understand future climate impacts, evaluate policies, and make robust decisions based on outcomes.Undergraduates participate in many RDCEP research efforts, working closely with faculty, graduate students, and postdocs on problems at the intersection of energy and environmental science.
+
+
 
 ## [2020 Data Science for the Public Good program 2020 at University of Virginia](https://biocomplexity.virginia.edu/social-decision-analytics/dspg-program/dspg-recruitment2020) 💰
 

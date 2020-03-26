@@ -1,7 +1,3 @@
----
-description: '`Description of Newsletters and blogs`'
----
-
 # Newsletters, Blogs, and Articles
 
 ## [Words of Mouth](http://www.wordsofmouth.org/)

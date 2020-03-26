@@ -1,6 +1,2 @@
----
-description: '`Description of Full Time`'
----
-
-# Full Time
+# Full Time Jobs
 

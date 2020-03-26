@@ -6,7 +6,7 @@
 
 * [Fellowships](opportunities/fellowships.md)
 * [Internships](opportunities/opportunities.md)
-* [Full Time](opportunities/full-time.md)
+* [Full Time Jobs](opportunities/full-time.md)
 
 ## Events
 

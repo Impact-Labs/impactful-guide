@@ -1,7 +1,3 @@
----
-description: '`Description of Organizations`'
----
-
 # Organizations
 
 ## [Impact Labs ](https://www.impactlabs.io/)[⭐](https://emojipedia.org/star/)
